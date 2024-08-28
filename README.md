@@ -1,2 +1,2 @@
-# **Machine-Learning-LR-RF**
+# **Machine Learning Training: LR & RF**
 
